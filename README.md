@@ -39,7 +39,6 @@ Due to the 1:1 scale of the model, the STL will need to be scaled to the build a
 | AxleLatch | Small peice to secure the wheels to the boggie. One the example print these were not used as the friction due to manufacturing tolerances made the wheel stay in place |
 | Keychain | A simple loop to make a keychain out of the **locomotive** |
 | Pantograph files | A multi-part that can be assembled to make a simple pantograph. This will likely require post-processing such as sanding down the diameters and sides. An Omega symbol that can be placed within the pantograph to help make it rigid is provided. Other symbols can be made for the same purpose |
-|  |  |
 | KeyOhma | An all-in-one model with keychain loop in place of the pantograph. The underside of the platform for this all-in-one model have been simplified since a keychain size print would not need these details |
 
 ## Future plans (maybe)
